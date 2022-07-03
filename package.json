@@ -1,6 +1,6 @@
 {
   "name": "@textea/shared",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Type definitions for Textea packages",
   "license": "MIT",
   "repository": "https://github.com/TexteaInc",
